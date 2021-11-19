@@ -1,0 +1,44 @@
+.kutu{
+    width:650px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+    
+}
+
+.baslik{
+    font-size: 30px;
+    text-align: center;
+    color:burlywood;
+    
+}
+.menu{
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 20px;
+    
+}
+
+.icerik{
+    font-size: 16px;;
+    line-height: 25px;
+    text-align: justify;
+   
+}
+.footer{
+    text-align: center;
+}
+.sayfa{
+    text-align: center;
+    background-color: crimson;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    font-size: 25px;
+}
+.odalar{
+    text-align: center
+}
